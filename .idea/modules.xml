@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NEWLoginRegister-master.iml" filepath="$PROJECT_DIR$/NEWLoginRegister-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SquatTools.iml" filepath="$PROJECT_DIR$/SquatTools.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
